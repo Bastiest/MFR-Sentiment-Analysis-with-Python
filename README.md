@@ -51,37 +51,37 @@ Used a rule based sentiment analysis approach to analyzing text without training
   <img src="https://user-images.githubusercontent.com/78896519/132651056-243226e7-dc79-45bc-978e-b7cca63e0b84.png" />
 </p>
 
-### Positive frequency wordcloud
+#### Positive frequency wordcloud
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78896519/132651285-a81ca73c-ebaf-48de-bc86-69bc5e998e2d.png" />
 </p>
 <br>
 
-### top 10 frequency 
+#### Top 10 frequency 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78896519/132651402-28342285-b273-4512-81d1-a3b47d7cc45a.png" />
 </p>
 <br>
 
-### sample content
+#### Sample content
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78896519/132651715-fd5a2483-cc47-4c63-ad26-7287ed267c79.png" />
 </p>
 <br>
 
-### Negative frequency wordcloud
+#### Negative frequency wordcloud
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78896519/132652037-ed213a35-d0bf-41bd-85df-296d01d6fe9d.png" />
 </p>
 <br>
 
-### top 10 frequency 
+#### Top 10 frequency 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78896519/132652113-1313132c-adac-4e89-83b0-5b3addddc301.png" />
 </p>
 <br>
 
-### sample content
+#### Sample content
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78896519/132652212-0a0dd72b-1ed8-4de7-9e23-0319ae023bc6.png" />
 </p>
